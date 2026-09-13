@@ -1,0 +1,5 @@
+appdirs
+clang-format
+nrpypn
+sympy
+typing-extensions
